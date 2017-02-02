@@ -1,0 +1,24 @@
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\bin\Debug\Transcriber.exe
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\bin\Debug\Transcriber.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\obj\x86\Debug\Transcriber.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\obj\x86\Debug\Transcriber.Form1.resources
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\obj\x86\Debug\Transcriber.Properties.Resources.resources
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\obj\x86\Debug\Transcriber.csproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\obj\x86\Debug\Transcriber.exe
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\obj\x86\Debug\Transcriber.pdb
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\bin\Debug\MediaToolkit.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\bin\Debug\NAudio.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\bin\Debug\NHyphenator.dll
+C:\Users\Jonathan\Documents\Visual Studio 2010\Projects\Transcriber\Transcriber\bin\Debug\Accord.dll.config
+C:\Users\Adroitboss\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.exe
+C:\Users\Adroitboss\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.pdb
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.exe
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.pdb
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\bin\Debug\Accord.dll.config
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\bin\Debug\Transcriber.exe
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\bin\Debug\Transcriber.pdb
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\bin\Debug\MediaToolkit.dll
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.Form1.resources
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.Properties.Resources.resources
+C:\Users\Jonathan\Dropbox\Transcriber\Transcriber\obj\x86\Debug\Transcriber.csproj.GenerateResource.Cache
